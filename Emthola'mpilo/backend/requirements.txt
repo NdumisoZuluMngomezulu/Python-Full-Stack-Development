@@ -1,0 +1,5 @@
+Django>=5.2,<6.0
+djangorestframework>=3.16,<4.0
+django-cors-headers>=4.7,<5.0
+# Only needed when DB_ENGINE=mysql (requires MySQL client libraries on the machine):
+# mysqlclient>=2.2
